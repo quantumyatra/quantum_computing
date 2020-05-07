@@ -1,6 +1,6 @@
-# IBM Quantum Challenge exercises
+# IBM exercises
 
-Original version of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge).
+Original version of the exercises in the [IBM QC](http://ibm.co/quantumchallenge).
 
 ## What's in this repository?
 
