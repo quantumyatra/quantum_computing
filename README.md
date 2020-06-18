@@ -26,8 +26,7 @@ Learning QC for fun.
 * https://www.kaggle.com/ashishpatel26/quantum-computing-introduction-using-python 
 
 
-
-# Resources for Quantum Computing. From [<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
+# Resources for Quantum Computing. 
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilises quantum mechanical phenomenon such as entanglement and superposition to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them. 
 
@@ -174,9 +173,3 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 - [Meet the meQuanics](https://soundcloud.com/mequanics)  Interviews with key quantum computing figures, aimed at the lay person.
 - [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Podcast by Ethan Hansen covering three main topics: the basics of quantum computing, interviews and the latest news.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireevl) has waived all copyright and related or neighboring rights to this work.
