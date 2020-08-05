@@ -1,8 +1,11 @@
 # Quantum Computing learning 
 Learning QC for fun.
 
+* [Nice Collection of resources for Quantum Machine Learning.](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/README.md)
+
+
 ## Resources
-* Caltech: CS101-3 Quantum Algorithms and Programming http://www.its.caltech.edu/~andrugh/qprog/
+* [Caltech: CS101-3 Quantum Algorithms and Programming ](http://www.its.caltech.edu/~andrugh/qprog/)
 * https://www.quantum-inspire.com/kbase/hadamard/
 * https://www.quanta.guru/docs/circuits/hadamard/hadamard/
 * https://medium.com/qiskit/qiskit-backends-what-they-are-and-how-to-work-with-them-fb66b3bd0463
@@ -24,7 +27,6 @@ Learning QC for fun.
 
 ## Articles
 * https://www.kaggle.com/ashishpatel26/quantum-computing-introduction-using-python 
-
 
 # Resources for Quantum Computing. 
 
