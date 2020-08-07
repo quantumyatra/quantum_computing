@@ -1,5 +1,5 @@
 # Quantum Machine Learning
-These notebooks are part of the [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) course offered in EdX.
+These notebooks are part of the [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) course offered in EdX. Here is the [original repo](https://gitlab.com/qosf/qml-mooc).
 
 The pace of development in quantum computing mirrors the rapid advances made in machine learning and artificial intelligence. It is natural to ask whether quantum technologies could boost learning algorithms: this field of enquiry is called quantum machine learning. This massively open online online course (MOOC) on [edX](https://www.edx.org/course/quantum-machine-learning) is offered by the University of Toronto on edX with an emphasis on what benefits current and near-future quantum technologies may bring to machine learning. These notebooks contain the lecture notes and the code for the course. The content is organized in four modules, with an additional introductory module to the course itself.
 
