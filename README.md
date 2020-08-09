@@ -16,6 +16,7 @@ Learning QC for fun.
 
 
 ## Books 
+* [Google Drive for Quantum computing books](https://drive.google.com/drive/u/0/folders/1R7Zuoc05beqbd8YXEbt4d0PP76GOXIm0)
 * ABC of Quantum Computing
 
 ### Quantum Machine Learning Notebooks EDX 
