@@ -1,0 +1,2 @@
+name = Ghanashyam Khanal
+version_info = {'qiskit-terra': '0.14.2', 'qiskit-aer': '0.5.1', 'qiskit-ignis': '0.3.3', 'qiskit-ibmq-provider': '0.7.2', 'qiskit-aqua': '0.7.3', 'qiskit': '0.19.6'}
