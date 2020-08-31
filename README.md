@@ -21,8 +21,7 @@ Learning QC for fun.
 
 ## Courses
 * [Quantum Machine Learning: Edx](https://github.com/q4quanta/Q-mlearning?fbclid=IwAR29fAeaRODNBD3BigDh5SZ5Xl09WWvQ-yQq--kaFW9gzKjGM0yxspEqcHo)
-* [Advanced Quantum Algorithms: Chalmer Univ](https://www.chalmers.se/en/centres/wacqt/graduate%20school/aqa/Pages/default.aspx?fbclid=IwAR0GHvdwh-cKl0wquR1ixo7d95cyU-b-hk70p0EE_9tHF4F3mf0egxKAnoQ)
-(https://www.youtube.com/watch?v=shKEpnErXII&feature=youtu.be)
+* [Advanced Quantum Algorithms: Chalmer Univ](https://www.chalmers.se/en/centres/wacqt/graduate%20school/aqa/Pages/default.aspx?fbclid=IwAR0GHvdwh-cKl0wquR1ixo7d95cyU-b-hk70p0EE_9tHF4F3mf0egxKAnoQ)[.](https://www.youtube.com/watch?v=shKEpnErXII&feature=youtu.be)
 
 ## Presentations and Slides
 * https://arcb.csc.ncsu.edu/~mueller/qc/qc-tut/circuits_and_algorithms.pdf
